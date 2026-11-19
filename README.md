@@ -1,7 +1,18 @@
-- [앱 다운로드](https://play.google.com/apps/internaltest/4699994366948661333)
-- [사전 설문지](https://forms.gle/Ac8PnoAjs31gBdEVA)
-- [사후 설문지](https://forms.gle/rREPF4L4Bqt6M9Xd9)
+# CapstoneDesign 2026 PBT Guide
+안녕하세요, 치킨집 창업을 희망하는 저희 팀이 제작한 **[ 마음의 정원 ]** 베타 테스터로 참여하여 주셔서 대단히 감사하다는 말씀 먼저 올립니다.\
+**여러분들의 참여가 헛되지 않도록 꼭 A+ 을 쟁취하도록 하겠습니다.**
 
+#### [앱 다운로드 (꼭 먼저!)](https://play.google.com/apps/internaltest/4699994366948661333)
+#### [사전 설문지 (코드 입력 필요)](https://forms.gle/Ac8PnoAjs31gBdEVA)
+#### [사후 설문지 (테스트가 끝나는 시점에 작성해주시면 됩니다)](https://forms.gle/rREPF4L4Bqt6M9Xd9)
+
+> [!NOTE]
+> 아래 포스터의 내용에 따라 참여를 진행해주시면 되며, 변경사항이 있는 경우 각 테스터의 초대자 또는 이곳을 통해 공지할 예정입니다.
+
+## 업데이트 내용
+> ~~비어있다. 절대 치킨, 결코 치킨집~~
+
+## 안내 포스터
 ![베타 테스트 안내 1](images/01.png)
 
 ![베타 테스트 안내 2](images/02.png)
